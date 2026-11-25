@@ -1,0 +1,12 @@
+PROMPTS
+TASK 1 – EMAIL SUMMARY
+Summarize the following email and identify the top 3 critical supply chain issues impacting production and regulatory compliance. Then propose 5 clear and actionable next steps to address these issues in a professional and concise format.
+
+
+TASK 1 – WORD REPORT
+Create a professional document titled "Supply Chain Issues Review" based on the summarized email insights. The document must include the following sections:
+- Introduction (provide context and urgency of the issue)
+- Outline of the Business Problem (describe key supply chain risks and compliance impact)
+- Action Items (list the 5 actionable next steps)
+- Conclusion (summarize the importance of addressing the issue and expected outcomes)
+Use a clear, executive-level tone with structured formatting.

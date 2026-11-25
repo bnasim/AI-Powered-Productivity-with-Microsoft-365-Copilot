@@ -1,0 +1,16 @@
+TASK 3 – EXCEL ANALYSIS
+Analyze the supply chain dataset and provide the following insights:
+- Average delivery timeline grouped by risk level
+- On-time delivery rate for the following delayed components: CARB123, BIND567, COAT890
+- Supplier performance breakdown highlighting high-risk suppliers
+Summarize the insights clearly and highlight key risks impacting production and compliance.
+
+
+TASK 3 – WORD ANALYSIS REPORT
+Create a professional report titled "Supply Chain Issue Analysis Report" based on the data analysis. The report must include:
+- Executive Summary (high-level findings)
+- Component Overview (performance of CARB123, BIND567, COAT890)
+- Implications for Compliance (FDA/regulatory risks)
+- Root Cause Analysis (why delays are happening)
+- Mitigation Strategies (both general and component-specific actions)
+Use a structured, executive-level tone.

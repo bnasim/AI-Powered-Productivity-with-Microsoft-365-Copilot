@@ -1,0 +1,14 @@
+TASK 2 – MEETING INVITE (OUTLOOK)
+Create a professional meeting invitation titled "Supply Chain Issues Review." Include:
+- A clear and structured agenda in bullet points
+- Relevant stakeholders (Production Manager, Supply Chain Lead, Quality Assurance, Regulatory Affairs, Procurement)
+- Objective of the meeting: to review supply chain risks, assess compliance impact, and define mitigation actions
+
+
+TASK 2 – ACTION PLAN (BASED ON TRANSCRIPT)
+Based on the following Teams meeting transcript, generate a structured Action Plan document. The document must include:
+- General Strategies (overall approach to mitigate risks)
+- Immediate Actions (urgent actions to be taken now)
+- Short-Term Actions (1–3 weeks plan)
+- Ongoing Actions (continuous improvements and monitoring)
+Ensure the output is professional, actionable, and aligned with supply chain risk mitigation and regulatory compliance.
