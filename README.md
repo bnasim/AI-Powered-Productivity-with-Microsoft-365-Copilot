@@ -3,7 +3,8 @@ AI-Powered Productivity with Microsoft 365 Copilot
 
 <h3>Task 1: Problem Identification and Action Prioritization</h3>
 
-Email Analysis: Use Copilot in Outlook to analyze and summarize the provided email, "Immediate Attention Required: Critical Supply Chain Issues Impacting FDA Compliance.docx." Focus on distilling the key information into actionable insights. Copy and paste the email content into a new email draft to simulate the summarization process. The summary should identify at least three critical issues and propose five actionable next steps.
+Email Analysis: Use Copilot in Outlook to analyze and summarize the provided email, "Immediate Attention Required: Critical Supply Chain Issues Impacting FDA Compliance.docx." Focus on distilling the key information into actionable insights. 
+
 Report Generation: Use Copilot in Word to create a "Supply Chain Issues Review" document. This report should be professionally formatted with consistent fonts and layout and include the following sections:
 * Introduction
 * Outline of the Business Problem
@@ -12,7 +13,8 @@ Report Generation: Use Copilot in Word to create a "Supply Chain Issues Review" 
 
 <h3>Task 2: Cross-Functional Meeting Coordination and Action Planning</h3>
 
-Meeting Scheduling: Use Copilot in Outlook to generate and send a meeting invite for a meeting titled "Supply Chain Issues Review." The invite must include a clear agenda. Invite relevant (fictitious) stakeholders. Note: These are simulated stakeholders and do not need to be real email addresses.
+Meeting Scheduling: Use Copilot in Outlook to generate and send a meeting invite for a meeting titled "Supply Chain Issues Review." The invite must include a clear agenda. Invite relevant (fictitious) stakeholders. 
+
 Meeting Documentation and Action Plan: Use Copilot in Teams to summarize the provided "Teams Transcript: Addressing Critical Supply Chain Issues" in the context of the meeting agenda. Then, use Copilot in Word to generate an Action Plan based on this summary. The Action Plan must include the following sections:
 * General Strategies
 * Immediate Actions
